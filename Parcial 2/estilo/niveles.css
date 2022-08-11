@@ -1,0 +1,15 @@
+#Encabezado{
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    background-color: rgb(60, 255, 0);
+}
+#tabla{
+    text-align: center;
+    background-color: rgb(247, 181, 81);
+}
+#Final{
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(43, 226, 156);
+}
