@@ -1,0 +1,32 @@
+
+        h1 {
+            text-align: center;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: brown;
+        }
+        p,
+        h3,
+        div,
+        input {
+            text-align: center;
+        }
+        
+        a {
+            font-size: 25px;
+        }
+        
+        
+        
+        form {
+            text-align: center;
+            color: brown;
+
+        }
+   
+        body {
+            background-color: aqua;
+        }
+
+        footer{
+            text-align: center;
+        }
